@@ -1,0 +1,9 @@
+.test{
+    list-style-type: square;
+}
+.lineThro{
+    text-decoration: line-through;
+}
+li{
+    margin-top:20px;
+}
