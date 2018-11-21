@@ -22,6 +22,7 @@ yarn-error.log*
 
 
 #######
+.ssh
 .idea
 .git/
 _*
